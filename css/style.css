@@ -1,0 +1,82 @@
+.logo img {
+  width: 100%;
+  height: auto;
+}
+.nav {
+  /* background-color: blueviolet; */
+}
+.nav-bar {
+  list-style: none;
+}
+
+.nav-bar li {
+  float: right;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.nav-bar li:hover {
+  background-color: rgb(58, 76, 122);
+}
+
+.nav-bar li a {
+  color: rgb(190, 23, 23);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-bar li:hover a {
+  color: rgb(235, 10, 10);
+}
+
+.hero-image img {
+  width: 100%;
+  height: auto;
+}
+
+.card {
+  background-color: aquamarine;
+}
+
+.sticker {
+  width: 100%;
+  /* background-color: rgb(90, 124, 233); */
+}
+
+.sticker img {
+  width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
+
+.detail {
+  width: 100%;
+  padding: 5px;
+  background-color: rgba(211, 214, 221, 0.8);
+}
+
+.notice {
+  background-color: azure;
+}
+
+.event {
+  background-color: bisque;
+}
+
+.date {
+  width: 19.99%;
+  /* background-color: blue; */
+}
+
+.description {
+  width: 79.99%;
+  /* background-color: brown; */
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
